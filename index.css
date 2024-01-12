@@ -63,7 +63,8 @@ p {
   background-color: blue;
 }
 
-.row6, .row4 {
+.row6,
+.row4 {
   background-color: red;
 }
 
